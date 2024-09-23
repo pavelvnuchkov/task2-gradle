@@ -1,0 +1,6 @@
+rootProject.name = 'Example_28_2'
+include 'db'
+include 'service'
+include 'api'
+
+
